@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Tree
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -46,4 +49,13 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
