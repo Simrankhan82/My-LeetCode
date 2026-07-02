@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,16 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
