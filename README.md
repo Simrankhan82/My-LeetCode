@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/Simrankhan82/My-LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simrankhan82/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Simrankhan82/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
@@ -54,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -88,6 +91,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Simrankhan82/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simrankhan82/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
@@ -122,4 +126,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
