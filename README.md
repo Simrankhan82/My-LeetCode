@@ -20,6 +20,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Simrankhan82/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Simrankhan82/My-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Simrankhan82/My-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Simrankhan82/My-LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@
 | [0075-sort-colors](https://github.com/Simrankhan82/My-LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Simrankhan82/My-LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
@@ -88,6 +90,7 @@
 | [0075-sort-colors](https://github.com/Simrankhan82/My-LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Simrankhan82/My-LeetCode/tree/master/0392-is-subsequence) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Simrankhan82/My-LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 | [0875-koko-eating-bananas](https://github.com/Simrankhan82/My-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Simrankhan82/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Simrankhan82/My-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Simrankhan82/My-LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Prefix Sum
 |  |
 | ------- |
