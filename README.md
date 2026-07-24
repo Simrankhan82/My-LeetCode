@@ -19,6 +19,7 @@
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/Simrankhan82/My-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Simrankhan82/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Simrankhan82/My-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -34,6 +35,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,4 +157,12 @@
 | [0040-combination-sum-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Simrankhan82/My-LeetCode/tree/master/0051-n-queens) |
 | [0093-restore-ip-addresses](https://github.com/Simrankhan82/My-LeetCode/tree/master/0093-restore-ip-addresses) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
