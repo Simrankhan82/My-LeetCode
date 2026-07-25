@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Simrankhan82/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Simrankhan82/My-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Simrankhan82/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -96,6 +97,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Simrankhan82/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Simrankhan82/My-LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Simrankhan82/My-LeetCode/tree/master/0392-is-subsequence) |
@@ -103,6 +105,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Simrankhan82/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Simrankhan82/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simrankhan82/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
@@ -161,11 +164,13 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Simrankhan82/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Simrankhan82/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
