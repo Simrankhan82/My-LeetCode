@@ -51,11 +51,13 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Simrankhan82/My-LeetCode/tree/master/0901-online-stock-span) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
