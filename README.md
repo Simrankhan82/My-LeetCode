@@ -51,17 +51,20 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
