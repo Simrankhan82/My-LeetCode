@@ -198,4 +198,8 @@
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Simrankhan82/My-LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
