@@ -141,6 +141,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Simrankhan82/My-LeetCode/tree/master/0002-add-two-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simrankhan82/My-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -202,4 +203,12 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Simrankhan82/My-LeetCode/tree/master/0176-second-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Simrankhan82/My-LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Simrankhan82/My-LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
