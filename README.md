@@ -52,6 +52,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -59,12 +60,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Simrankhan82/My-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,6 +179,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Simrankhan82/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Simrankhan82/My-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Simrankhan82/My-LeetCode/tree/master/0901-online-stock-span) |
