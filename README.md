@@ -92,6 +92,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0093-restore-ip-addresses](https://github.com/Simrankhan82/My-LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/Simrankhan82/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/Simrankhan82/My-LeetCode/tree/master/0392-is-subsequence) |
@@ -126,6 +127,7 @@
 | [0011-container-with-most-water](https://github.com/Simrankhan82/My-LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Simrankhan82/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Simrankhan82/My-LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Simrankhan82/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Simrankhan82/My-LeetCode/tree/master/0392-is-subsequence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Simrankhan82/My-LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
