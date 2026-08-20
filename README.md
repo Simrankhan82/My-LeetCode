@@ -42,6 +42,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Simrankhan82/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0496-next-greater-element-i) |
+| [2351-first-letter-to-appear-twice](https://github.com/Simrankhan82/My-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0392-is-subsequence](https://github.com/Simrankhan82/My-LeetCode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Simrankhan82/My-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Simrankhan82/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2351-first-letter-to-appear-twice](https://github.com/Simrankhan82/My-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
@@ -243,4 +246,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Simrankhan82/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Simrankhan82/My-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
