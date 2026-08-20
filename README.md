@@ -38,6 +38,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/Simrankhan82/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
@@ -95,6 +96,7 @@
 | [0125-valid-palindrome](https://github.com/Simrankhan82/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Simrankhan82/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Simrankhan82/My-LeetCode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -109,6 +111,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Simrankhan82/My-LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Simrankhan82/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Simrankhan82/My-LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
