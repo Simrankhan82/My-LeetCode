@@ -26,6 +26,7 @@
 | [0496-next-greater-element-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0875-koko-eating-bananas](https://github.com/Simrankhan82/My-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Simrankhan82/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Simrankhan82/My-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Simrankhan82/My-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -119,6 +120,7 @@
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Simrankhan82/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Simrankhan82/My-LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
@@ -140,6 +142,7 @@
 | [0125-valid-palindrome](https://github.com/Simrankhan82/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Simrankhan82/My-LeetCode/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Simrankhan82/My-LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Simrankhan82/My-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
