@@ -1,7 +1,7 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
 
-                if ((long) m * k > bloomDay.length) {
+            if ((long) m * k > bloomDay.length) {
             return -1;
         }
 
@@ -14,42 +14,48 @@ class Solution {
             high = Math.max(high, day);
         }
 
+        int ans= 0 ; 
+
         // Binary Search
-        while (low < high) {
+        while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            if (canMake(bloomDay, m, k, mid)) {
-                high = mid;      // Try a smaller day
+            if (canMake(bloomDay, m, k, mid )) {
+                ans = mid ;
+                high= mid - 1 ;    // Try a smaller day
             } else {
                 low = mid + 1;   // Need more days
             }
         }
 
-        return low;
+        return ans ;
     }
 
-    // Check if we can make at least m bouquets in 'days' days
+    // Check if we can make at least m bouquets in  days
     private boolean canMake(int[] bloomDay, int m, int k, int days) {
 
-        int flowers = 0;
-        int bouquets = 0;
+        int flower = 0 ; 
+        int bouquent = 0 ; 
 
-        for (int bloom : bloomDay) {
+        for(int bloom : bloomDay){
 
-            if (bloom <= days) {
-                flowers++;
+            if(bloom <= days){
+                flower++;
+                if(flower == k){
+                    bouquent++; // adding the boquet and initialise the flower = 0 
+                    flower = 0 ;
+                }  
+            }else{
+                    flower = 0 ; // the chain get broken 
 
-                if (flowers == k) {
-                    bouquets++;
-                    flowers = 0;   // Flowers are used in one bouquet
                 }
-
-            } else {
-                flowers = 0;       // Sequence is broken
-            }
         }
 
-        return bouquets >= m;
+            return bouquent >= m ;  // then it will return the bouquet 
+
+
+
+        
     }
 }
 
