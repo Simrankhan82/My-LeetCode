@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Simrankhan82/My-LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Simrankhan82/My-LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0039-combination-sum) |
@@ -97,6 +98,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0093-restore-ip-addresses](https://github.com/Simrankhan82/My-LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Simrankhan82/My-LeetCode/tree/master/0125-valid-palindrome) |
@@ -197,6 +199,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
 ## Memoization
 |  |
