@@ -23,6 +23,7 @@
 | [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Simrankhan82/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Simrankhan82/My-LeetCode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Simrankhan82/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -183,6 +185,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Simrankhan82/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Simrankhan82/My-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -288,6 +291,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Simrankhan82/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Simrankhan82/My-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
