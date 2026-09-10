@@ -200,6 +200,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Simrankhan82/My-LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Simrankhan82/My-LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simrankhan82/My-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -277,6 +278,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Simrankhan82/My-LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Simrankhan82/My-LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Simrankhan82/My-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0509-fibonacci-number) |
 ## Queue
