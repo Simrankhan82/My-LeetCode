@@ -1,36 +1,41 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
 
-
-    if(s.length() != t.length()){
-        return false;
-
-    }
-
-    int[] freqS = new int[128];
-    int[] freqT = new int[128];
-
-
-    for(int i = 0 ; i < s.length() ; i++){
-        freqS[s.charAt(i)]++ ;
-    }
-    for(int i =0 ; i < t.length() ; i++){
-        freqT[t.charAt(i)]++;
-
-    }
-
-    for(int i = 0 ; i< 128 ; i++){
-        if(freqS[i] != freqT[i]){
+        if(s.length() != t.length()){
             return false ;
+
+        }
+        HashMap<Character , Integer > mp = new HashMap<>();
+        for(int i = 0 ; i < s.length() ; i++){
+            char c = s.charAt(i);
+
+            mp.put(c , mp.getOrDefault(c , 0) +1 );
+
+
+        }
+        for(int i = 0 ; i < t.length() ; i++){
+
+            char c = t.charAt(i);
+            if(!mp.containsKey(c)){
+                return false ;
+
+            }
+            mp.put(c , mp.getOrDefault(c , 0) -1);
+            
         }
 
+        for(int count : mp.values()){
+            if(count != 0){
+                return false ;
+            }
+        }
+        return true ;
+
         
-    }
-    return true ;
     }
 }
 
 
+        
 
-    
-
+        
