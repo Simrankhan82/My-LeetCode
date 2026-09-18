@@ -36,6 +36,7 @@
 | [0875-koko-eating-bananas](https://github.com/Simrankhan82/My-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Simrankhan82/My-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Simrankhan82/My-LeetCode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Simrankhan82/My-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Simrankhan82/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Simrankhan82/My-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -174,6 +175,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Simrankhan82/My-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Simrankhan82/My-LeetCode/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Simrankhan82/My-LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Simrankhan82/My-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -345,4 +347,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Simrankhan82/My-LeetCode/tree/master/0881-boats-to-save-people) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Simrankhan82/My-LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
