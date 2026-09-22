@@ -41,6 +41,7 @@
 | [0986-interval-list-intersections](https://github.com/Simrankhan82/My-LeetCode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Simrankhan82/My-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Simrankhan82/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Simrankhan82/My-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Simrankhan82/My-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Simrankhan82/My-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -63,6 +64,7 @@
 | [0496-next-greater-element-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Simrankhan82/My-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Simrankhan82/My-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/Simrankhan82/My-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
@@ -219,6 +221,7 @@
 | [0724-find-pivot-index](https://github.com/Simrankhan82/My-LeetCode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Simrankhan82/My-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Simrankhan82/My-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
@@ -226,6 +229,7 @@
 | [0002-add-two-numbers](https://github.com/Simrankhan82/My-LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Simrankhan82/My-LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Simrankhan82/My-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simrankhan82/My-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -338,6 +342,7 @@
 | [0904-fruit-into-baskets](https://github.com/Simrankhan82/My-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Simrankhan82/My-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Simrankhan82/My-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
