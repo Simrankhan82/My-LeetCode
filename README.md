@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/Simrankhan82/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Simrankhan82/My-LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Simrankhan82/My-LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Simrankhan82/My-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -268,6 +269,7 @@
 | [0039-combination-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Simrankhan82/My-LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Simrankhan82/My-LeetCode/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/Simrankhan82/My-LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Simrankhan82/My-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Simrankhan82/My-LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -324,6 +326,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Simrankhan82/My-LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Simrankhan82/My-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Simrankhan82/My-LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
