@@ -123,6 +123,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Simrankhan82/My-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Simrankhan82/My-LeetCode/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/Simrankhan82/My-LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Simrankhan82/My-LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Simrankhan82/My-LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -191,6 +192,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Simrankhan82/My-LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Simrankhan82/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Simrankhan82/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simrankhan82/My-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -266,6 +268,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Simrankhan82/My-LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Simrankhan82/My-LeetCode/tree/master/0051-n-queens) |
@@ -373,4 +376,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Simrankhan82/My-LeetCode/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Simrankhan82/My-LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
