@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/Simrankhan82/My-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Simrankhan82/My-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Simrankhan82/My-LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Simrankhan82/My-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Simrankhan82/My-LeetCode/tree/master/0078-subsets) |
@@ -204,6 +205,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
@@ -336,6 +338,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Simrankhan82/My-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Pigeonhole Principle
 |  |
