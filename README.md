@@ -29,6 +29,7 @@
 | [0169-majority-element](https://github.com/Simrankhan82/My-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Simrankhan82/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -63,6 +64,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Simrankhan82/My-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Simrankhan82/My-LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Simrankhan82/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Simrankhan82/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Simrankhan82/My-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -157,6 +159,7 @@
 | [0088-merge-sorted-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Simrankhan82/My-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Simrankhan82/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Simrankhan82/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Simrankhan82/My-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/Simrankhan82/My-LeetCode/tree/master/0881-boats-to-save-people) |
