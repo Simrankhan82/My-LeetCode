@@ -5,37 +5,43 @@ class Solution {
             return false ;
 
         }
-        HashMap<Character , Integer > mp = new HashMap<>();
-        for(int i = 0 ; i < s.length() ; i++){
-            char c = s.charAt(i);
 
-            mp.put(c , mp.getOrDefault(c , 0) +1 );
+        HashMap<Character , Integer > m = new HashMap<>();
 
 
-        }
-        for(int i = 0 ; i < t.length() ; i++){
+          
 
-            char c = t.charAt(i);
-            if(!mp.containsKey(c)){
-                return false ;
+            for(int i = 0 ; i < s.length() ; i++){
+                char c = s.charAt(i);
+                m.put(c , m.getOrDefault(c , 0) +1);
 
             }
-            mp.put(c , mp.getOrDefault(c , 0) -1);
-            
-        }
-
-        for(int count : mp.values()){
-            if(count != 0){
-                return false ;
-            }
-        }
-        return true ;
-
         
+
+
+            for(int i = 0 ; i < t.length() ; i++){
+                char c = t.charAt(i);
+
+                if(!m.containsKey(c)){
+                    return false ;
+
+
+                }
+
+                m.put(c , m.getOrDefault(c , 0) -1);
+
+            }
+
+            for(int count : m.values()){
+
+                if(count != 0){
+                    return false ;
+
+                }
+            }
+            return true ;
+        }
     }
-}
 
 
-        
 
-        
