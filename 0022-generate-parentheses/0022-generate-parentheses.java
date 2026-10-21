@@ -3,31 +3,27 @@ class Solution {
 
         List<String> result = new ArrayList<>();
         Backtrack(n , 0 , 0 ,"" , result);
-        return result ;
+        return  result ;
 
     }
-    public static void Backtrack(int n , int open , int close , String current , List<String> result){
 
-        if(current.length() == 2*n){
-            result.add(current);
+    public static void Backtrack(int n , int open , int close  , String  Current , List<String> result){
+
+        if(Current.length() == 2*n){
+            result.add(Current);
             return ;
         }
 
-        if(open < n ){
+        if(open < n){
 
-            Backtrack(n , open +1 , close , current +"(" , result);
-
+            Backtrack( n , open+1 , close , Current+"("  ,result);
+        
         }
-        if(close < open ){
-            Backtrack(n , open , close+1 , current+")" , result);
 
+        if(close < open){
+
+            Backtrack(n, open , close+1 , Current+")" , result);
         }
 
     }
 }
-
-
-
-
-
-  
