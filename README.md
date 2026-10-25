@@ -34,6 +34,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0494-target-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Simrankhan82/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -211,6 +212,7 @@
 | [0139-word-break](https://github.com/Simrankhan82/My-LeetCode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Simrankhan82/My-LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
@@ -287,6 +289,7 @@
 | [0078-subsets](https://github.com/Simrankhan82/My-LeetCode/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/Simrankhan82/My-LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Simrankhan82/My-LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Simrankhan82/My-LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
@@ -393,4 +396,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Simrankhan82/My-LeetCode/tree/master/0022-generate-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
