@@ -343,6 +343,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Simrankhan82/My-LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Simrankhan82/My-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Simrankhan82/My-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Simrankhan82/My-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Simrankhan82/My-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -353,6 +354,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Simrankhan82/My-LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Simrankhan82/My-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Simrankhan82/My-LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Simrankhan82/My-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0509-fibonacci-number) |
