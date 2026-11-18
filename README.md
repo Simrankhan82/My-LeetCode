@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Simrankhan82/My-LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Simrankhan82/My-LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Simrankhan82/My-LeetCode/tree/master/0041-first-missing-positive) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Simrankhan82/My-LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Simrankhan82/My-LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
