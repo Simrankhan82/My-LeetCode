@@ -43,6 +43,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Simrankhan82/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Simrankhan82/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Simrankhan82/My-LeetCode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Simrankhan82/My-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Simrankhan82/My-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Simrankhan82/My-LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -236,6 +237,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
@@ -381,6 +383,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Simrankhan82/My-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Pigeonhole Principle
 |  |
