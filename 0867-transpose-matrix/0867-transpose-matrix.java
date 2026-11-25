@@ -1,20 +1,23 @@
 class Solution {
     public int[][] transpose(int[][] matrix) {
 
-        int row = matrix.length ; 
-        int cols = matrix[0].length  ;
+        int m = matrix.length ;
+        int n = matrix[0].length ; 
 
-        int [][] res = new int[cols][row];
+        int [][] result = new int[n][m];
 
-        for(int i = 0 ; i < row  ; i++){
 
-            for(int j = 0 ; j< cols  ; j++){
+        for(int i =0 ; i < m ; i++){
 
-                res[j][i] =  matrix[i][j];
-            }
+            for(int j =0 ; j < n ;j++){
+
+                result[j][i] = matrix[i][j];
+            } 
+            
         }
 
-        return res ;
-      
+        return result  ; 
     }
 }
+
+       
