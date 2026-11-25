@@ -16,6 +16,7 @@
 | [0040-combination-sum-ii](https://github.com/Simrankhan82/My-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Simrankhan82/My-LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Simrankhan82/My-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Simrankhan82/My-LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Simrankhan82/My-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Simrankhan82/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0054-spiral-matrix) |
@@ -235,6 +236,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Simrankhan82/My-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Simrankhan82/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Simrankhan82/My-LeetCode/tree/master/0867-transpose-matrix) |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Simrankhan82/My-LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Simrankhan82/My-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Simrankhan82/My-LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Simrankhan82/My-LeetCode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Simrankhan82/My-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
