@@ -63,6 +63,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Simrankhan82/My-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Simrankhan82/My-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Simrankhan82/My-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Simrankhan82/My-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -271,6 +272,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Simrankhan82/My-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Simrankhan82/My-LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/Simrankhan82/My-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Math
 |  |
 | ------- |
